@@ -8,8 +8,6 @@
   <link rel="stylesheet" href="./styles/main.css">
 </head>
 <body>
-
-### Hi there 👋 I'm Lucas Wong 🙂
 ### GitHub Status 😎
 
 ![](https://komarev.com/ghpvc/?username=LucasWongC&color=blueviolet)

@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="./styles/main.css">
 </head>
 <body>
-### GitHub Status 😎
+★¸.•☆•.¸★ GitHub Status ★⡀.•☆•.★
 
 ![](https://komarev.com/ghpvc/?username=LucasWongC&color=blueviolet)
 

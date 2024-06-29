@@ -10,9 +10,8 @@
 <body>
 ꧁༺ 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓾𝓼 ༻꧂
 
-
 ![](https://komarev.com/ghpvc/?username=LucasWongC&color=blueviolet)
-
+<div></div>
 <div id='profile-them'><a class='github-status' href='https://github.com/LucasWongC'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=LucasWongC&show_icons=true&theme=radical' />
 <a class='Most-used-languages' href='https://github.com/LucasWongC'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWongC&layout=compact' />
 </div>
